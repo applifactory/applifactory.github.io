@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="20px" height="18px" viewBox="0 0 20 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Heart</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="heart-group-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="heart-group-2" transform="translate(-450.000000, -1881.000000)" fill="#FF4747">
+            <g id="heart-group-3" transform="translate(423.000000, 1870.000000)">
+                <path d="M41.4,11 C39.6,11 38,11.9 37,13.3 C36,11.9 34.4,11 32.6,11 C29.5,11 27,13.5 27,16.6 C27,21 37,29 37,29 C37,29 47,21 47,16.6 C47,13.5 44.5,11 41.4,11 L41.4,11 Z" id="Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>
