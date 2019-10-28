@@ -511,10 +511,16 @@ body.r-debug::after {
   border-left-color: #847738;
 }
 .experience > ul > li:nth-child(5) .year {
-  background: #716630;
+  background: #756a31;
 }
 .experience > ul > li:nth-child(5)::before {
-  border-left-color: #716630;
+  border-left-color: #756a31;
+}
+.experience > ul > li:nth-child(6) .year {
+  background: #685e2c;
+}
+.experience > ul > li:nth-child(6)::before {
+  border-left-color: #685e2c;
 }
 @media screen and (min-width: 768px) {
   .experience {
